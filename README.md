@@ -1,7 +1,7 @@
 # Mozaïk demo dashboards
 
 [![Travis CI][travis-image]][travis-url]
-
+this is a test
 This repository shows how to use Mozaïk with npm extensions, [installation instructions](http://mozaik.rocks/v1/use/).
 
 [travis-image]: https://img.shields.io/travis/plouc/mozaik-demo.svg?style=flat-square
